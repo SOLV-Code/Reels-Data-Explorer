@@ -39,7 +39,7 @@ bg.list <- c("white","white")
 casting.idx <- reels.df[,"Type"]=="Casting"
 spinning.idx <- reels.df[,"Type"]=="Spinning"
 
-pch.in <- cols.in <- bg.in <- rep(NA,length(vec.x))
+pch.in <- cols.in <- bg.in <- rep(NA,length(vec.x.tmp))
 
 pch.in[casting.idx] <- pch.list[1]
 pch.in[spinning.idx] <- pch.list[2] 
@@ -92,7 +92,7 @@ bg.list <- c("white","white")
 casting.idx <- reels.df[,"Type"]=="Casting"
 spinning.idx <- reels.df[,"Type"]=="Spinning"
 
-pch.in <- cols.in <- bg.in <- rep(NA,length(vec.x))
+pch.in <- cols.in <- bg.in <- rep(NA,length(vec.x.tmp))
 
 pch.in[casting.idx] <- pch.list[1]
 pch.in[spinning.idx] <- pch.list[2] 
