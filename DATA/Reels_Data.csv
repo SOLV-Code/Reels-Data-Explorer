@@ -1,14 +1,14 @@
 ID,LabelShort,LabelLong,Type,Brand,Model,ModelID,Price,Material,Weight_oz,GearRatio,DragType,MaxDrag_lbs,TotalBearings,BraidCapacity_ydsplb,MonoCapacity_ydsplb,LineRetrieve_inpturn
-C1,C/13FC/A3_8.1,Casting/13 Fishing Concept/A3 8.1,Casting,13 Fishing Concept,A3 8.1,NA,225,NA,NA,8.1,NA,30,7,NA,NA,37
-C2,C/AbuGarcia/RevoALX,Casting/Abu Garcia/Revo ALX,Casting,Abu Garcia,Revo ALX,NA,250,NA,NA,6.4,NA,17,9,NA,NA,25
-C3,C/AbuGarcia/RevoMGXtreme,Casting/Abu Garcia/Revo MGXtreme,Casting,Abu Garcia,Revo MGXtreme,NA,500,NA,NA,8,NA,12,11,NA,NA,32
-C4,C/Daiwa/TatulaCT100H,Casting/Daiwa/Tatula CT 100H,Casting,Daiwa,Tatula CT 100H,NA,130,NA,NA,6.3,NA,13.2,8,NA,NA,26.3
-C5,C/Okuma/KomodoSS364,Casting/Okuma/Komodo SS 364,Casting,Okuma,Komodo SS 364,NA,220,NA,NA,6.4,NA,25,7,NA,NA,31
-C6,C/Pflueger/PresidentXT,Casting/Pflueger/President XT,Casting,Pflueger,President XT,NA,80,NA,NA,7.3,NA,12,9,NA,NA,31
-C7,C/Quantum/VaporPT100HPT,Casting/Quantum/Vapor PT 100HPT,Casting,Quantum,Vapor PT 100HPT,NA,150,NA,NA,7,NA,18,11,NA,NA,27
-C8,C/Shimano/MetaniumMGL150HG,Casting/Shimano/Metanium MGL 150HG,Casting,Shimano,Metanium MGL 150HG,NA,420,NA,NA,7.4,NA,11,11,NA,NA,31
-C9,C/Shimano/Caenan150A,Casting/Shimano /Caenan 150A,Casting,Shimano,Caenan 150A,NA,100,NA,NA,6.3,NA,11,5,NA,NA,26
-C10,C/TeamLew/CustomProSpeedSpoolSLP1H,Casting/Team Lew's/Custom Pro Speed Spool SLP 1H,Casting,Team Lew's,Custom Pro Speed Spool SLP 1H,NA,260,NA,NA,6.8,NA,14,11,NA,NA,27
+C1,C/13FC/A3,Casting/13 Fishing Concept/A3 8.1,Casting,13 Fishing Concept,A3 8.1,NA,225,NA,NA,8.1,NA,30,7,NA,NA,37
+C2,C/AG/RevoALX,Casting/Abu Garcia/Revo ALX,Casting,Abu Garcia,Revo ALX,NA,250,NA,NA,6.4,NA,17,9,NA,NA,25
+C3,C/AG/RevoMGXt,Casting/Abu Garcia/Revo MGXtreme,Casting,Abu Garcia,Revo MGXtreme,NA,500,NA,NA,8,NA,12,11,NA,NA,32
+C4,C/Daiwa/Tatula,Casting/Daiwa/Tatula CT 100H,Casting,Daiwa,Tatula CT 100H,NA,130,NA,NA,6.3,NA,13.2,8,NA,NA,26.3
+C5,C/Oku/Kom,Casting/Okuma/Komodo SS 364,Casting,Okuma,Komodo SS 364,NA,220,NA,NA,6.4,NA,25,7,NA,NA,31
+C6,C/Pfl/PresXT,Casting/Pflueger/President XT,Casting,Pflueger,President XT,NA,80,NA,NA,7.3,NA,12,9,NA,NA,31
+C7,C/Quant/Vap,Casting/Quantum/Vapor PT 100HPT,Casting,Quantum,Vapor PT 100HPT,NA,150,NA,NA,7,NA,18,11,NA,NA,27
+C8,C/Shim/Metanium,Casting/Shimano/Metanium MGL 150HG,Casting,Shimano,Metanium MGL 150HG,NA,420,NA,NA,7.4,NA,11,11,NA,NA,31
+C9,C/Shim/Caenan,Casting/Shimano /Caenan 150A,Casting,Shimano,Caenan 150A,NA,100,NA,NA,6.3,NA,11,5,NA,NA,26
+C10,C/Lew/CstSLP1H,Casting/Team Lew's/Custom Pro Speed Spool SLP 1H,Casting,Team Lew's,Custom Pro Speed Spool SLP 1H,NA,260,NA,NA,6.8,NA,14,11,NA,NA,27
 S1,S/AbuGarcia/ProMa 30,Spinning/Abu Garcia/Pro Max 30,Spinning,Abu Garcia,Pro Max 30,NA,50,NA,NA,5.1,NA,14,7,NA,NA,29
 S2,S/AbuGarcia/RevoRocket30,Spinning/Abu Garcia/Revo Rocket 30,Spinning,Abu Garcia,Revo Rocket 30,NA,200,NA,NA,7,NA,11,10,NA,NA,40
 S3,S/AbuGarcia/RevoS,Spinning/Abu Garcia/Revo S,Spinning,Abu Garcia,Revo S,NA,NA,NA,9.5,6.2,NA,NA,8,NA,NA,NA
@@ -16,7 +16,7 @@ S4,S/AbuGarcia/RevoSX,Spinning/Abu Garcia/Revo SX,Spinning,Abu Garcia,Revo SX,NA
 S5,S/Daiwa/10Crosscast4000,Spinning/Daiwa/10 Crosscast 4000,Spinning,Daiwa,10 Crosscast 4000,NA,98.35,Aluminum,NA,4.9,Front,14,3,NA,NA,NA
 S6,S/Daiwa/BG3000,Spinning/Daiwa/BG 3000,Spinning,Daiwa,BG 3000,NA,110,NA,NA,5.6,NA,15.4,7,NA,NA,37.4
 S7,S/Okuma/HeliosSX30,Spinning/Okuma/Helios SX 30,Spinning,Okuma,Helios SX 30,NA,130,NA,NA,5,NA,13,9,NA,NA,24.8
-S8,S/Okuma/MakairaMK-20000LS,Spinning/Okuma/Makaira,Spinning,Okuma,Makaira,MK-20000LS,NA,Aluminum,32.5,5.8,Front,66,9,NA,NA,NA
+S8,S/Okuma/MakairaMK-20000LS,Spinning/Okuma/Makaira,Spinning,Okuma,Makaira,MK-20000LS,799.99,Aluminum,32.5,5.8,Front,66,9,NA,NA,NA
 S9,S/One3/CreedGT2000,Spinning/One3/Creed GT 2000,Spinning,One3,Creed GT 2000,NA,90,NA,NA,6.2,NA,11,11,NA,NA,NA
 S10,S/OrraSX20/OrraSX20,Spinning/Orra SX20/Orra SX20,Spinning,Orra SX20,Orra SX20,ORRA2SX20,NA,NA,8.3,5.8,NA,12,9,21.88,15,30.5
 S11,S/Penn/PursuitII,Spinning/Penn/Pursuit II,Spinning,Penn,Pursuit II,NA,39.99,Graphite,11.9,5.2,Front,9.9,5,NA,NA,NA

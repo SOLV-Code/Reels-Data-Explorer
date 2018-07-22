@@ -14,19 +14,18 @@ generic.trade.off.plot <- function(x.vec,y.vec,
 # vec.x and vec.y must have the same length
 # can specify a vector of plotting symbols and colors and background colors (pch.use, pch.cols, pch.bg) 
 		
-if(length(vec.x) != length(vec.y)){stop("Input vectors must have same length")}	
+if(length(x.vec) != length(x.vec)){stop("Input vectors must have same length")}	
 	
-if(is.null(x.lim)){x.lim <- c(0,max(vec.x,na.rm=TRUE))}
-if(is.null(y.lim)){y.lim <- c(0,max(vec.y,na.rm=TRUE))}
+if(is.null(x.lim)){x.lim <- c(0,max(x.vec,na.rm=TRUE))}
+if(is.null(y.lim)){y.lim <- c(0,max(y.vec,na.rm=TRUE))}
 
-if(is.null(pch.use)){pch.use <- rep(21,length(vec.x))}
-if(is.null(pch.cols)){pch.cols<- rep("darkblue",length(vec.x))}
-if(is.null(pch.bg)){pch.bg <- rep("lightgrey",length(vec.x))}
+if(is.null(pch.use)){pch.use <- rep(21,length(x.vec))}
+if(is.null(pch.cols)){pch.cols<- rep("darkblue",length(x.vec))}
+if(is.null(pch.bg)){pch.bg <- rep("lightgrey",length(x.vec))}
 
 
-plot(vec.x,vec.y,bty="n",xlim=x.lim,ylim=y.lim,
-		xlab=x.label, ylab= y.label,pch=pch.use,col=pch.cols,bg=pch.bg, cex=1.5,xpd=NA )
-
+plot(x.vec,y.vec,bty="n",xlim=x.lim,ylim=y.lim,
+		xlab=x.label, ylab= y.label,pch=pch.use,col=pch.cols,bg=pch.bg, cex=1.5 )
 
 
 
