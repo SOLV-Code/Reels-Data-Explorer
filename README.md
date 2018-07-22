@@ -12,10 +12,10 @@ Repository of Fishing Reels Data and Various Summaries
 ### Sources
 Data on Fishing Reels - Accessed on 2018-07-21
 
-https://www.fieldandstream.com/20-best-new-fishing-reels-ranked-and-reviewed#page-3
-https://www.tacklescout.com/best-spinning-reel-for-the-money/
-https://outdoorempire.com/choosing-best-spinning-reel-reviews/
-https://www.gearweare.com/review/best-spinning-reels-for-fishing/
+* https://www.fieldandstream.com/20-best-new-fishing-reels-ranked-and-reviewed#page-3
+* https://www.tacklescout.com/best-spinning-reel-for-the-money/
+* https://outdoorempire.com/choosing-best-spinning-reel-reviews/
+* https://www.gearweare.com/review/best-spinning-reels-for-fishing/
 
 Notes:
 - If Bearings are listed in two parts, then use the sum (e.g. 6+1 -> 7)
