@@ -1,3 +1,16 @@
+
+*.pdf
+*.jpg
+*.tiff
+*.doc
+*.docx
+*.png
+*.zip
+.RData
+.RDataTmp
+.Rhistory
+
+
 # History files
 .Rhistory
 .Rapp.history
