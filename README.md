@@ -20,7 +20,7 @@ Data on Fishing Reels - Accessed on 2018-07-21
 Notes:
 - If Bearings are listed in two parts, then use the sum (e.g. 6+1 -> 7)
 - Whenever a value is given as a range, use the largest.
-- Whenever different sources give diffferent valued, use the largest (e.g. prices, weights)
+- Whenever different sources give diffferent values, use the largest (e.g. prices, weights)
 
 
 
