@@ -112,6 +112,24 @@ generic.trade.off.plot(x.vec=vec.x.tmp,y.vec=vec.y.tmp,
 legend("bottomright",legend=c("Casting","Spinning"),pch=pch.list,col=col.list,bg=bg.list,bty="n",cex=0.8)
 
 
+
+
+# -------------------------------------------------
+# Plot 2b: Max Drag vs. Price (Subset)
+
+generic.trade.off.plot(x.vec=vec.x.tmp[casting.idx],y.vec=vec.y.tmp[casting.idx],
+		x.label="Price ($)",x.lim=c(0,350), y.label="Max Drag (lbs)",y.lim=c(10,31),
+		plot.title="Max Drag vs Price (Subset)",
+		pch.use=pch.in,pch.cols=cols.in,pch.bg=bg.in)
+
+
+abline(h=15,col="red")
+abline(v=300,col="red")
+text(vec.x.tmp[casting.idx],vec.y.tmp[casting.idx],labels=names(vec.x.tmp[casting.idx]),pos=3,cex=0.7)
+
+
+
+
 dev.off()
 
 
