@@ -1,6 +1,9 @@
 ## Reels-Data-Explorer
 Repository of Fishing Reels Data and Various Summaries
 
+NOTE: UPDATE PENDING WITH DATA FROM [here](https://www.tridentflyfishing.com/blog/8-weight-fly-reel-shootout-and-review-whats-the-best-saltwater-fly-reel).
+
+
 ### Contents
 
 ### Data File
